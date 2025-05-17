@@ -17,7 +17,7 @@ Step 1
 Feature
 
 Your React-based car comparison app is now set up with the following key features:
-* Responsive layout using CSS Grid and Flexbox.
+* Responsive layout using CSS Flexbox.
 * Custom filters and sorting for price, brand, type, and rating.
 * Side-by-side comparison table for selected cars.
 * No external UI libraries, fully styled with custom CSS.
