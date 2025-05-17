@@ -42,6 +42,8 @@ Requirement.
 
 7- I use  ‘Roboto' font which I add in app.css file. 
 
+8- I am not covering the unit test case in this app.  
+
 
 
 
